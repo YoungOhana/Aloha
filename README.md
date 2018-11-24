@@ -1,4 +1,6 @@
 # Aloha
 Just another repository
 
-Hello Earthlings!
+This is just another YoungOhana website hoping to gather all our recipes into one place.
+
+Lindy
